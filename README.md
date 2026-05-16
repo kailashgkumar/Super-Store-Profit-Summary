@@ -15,8 +15,6 @@ The dashboard helps in understanding:
 
 # 🛠 Tools & Technologies Used
 - Power BI
-- SQL
-- Python
 - Excel / CSV
 
 ---
